@@ -1,0 +1,12 @@
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\repository\RoleRepo.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\controller\RoleController.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\security\UserDetailsServiceImpl.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\controller\UserController.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\exception\response\UserErrorResponse.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\Project2Application.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\repository\UserRepo.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\exception\UserNotFoundException.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\model\Role.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\security\config\WebSecurityConfig.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\exception\RoleNotFoundException.java
+C:\Users\Gramos\eclipse-workspace\project_2\src\main\java\com\project\test\model\User.java
